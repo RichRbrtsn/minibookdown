@@ -1,0 +1,20 @@
+# Trying out Bookdown or Markdown
+
+This chapter is an overview of the methods that
+can be used to style text in **Markdown**.
+
+## Bold text
+
+Use 2 x asteriks to make it ***bold**
+
+## Italics
+
+Use 1 asteriks on each side to make *italics*
+
+## Add code
+
+    code = "add 4 spaces before"
+    
+ or
+    
+'''code in back ticks'''
