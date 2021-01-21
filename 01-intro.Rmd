@@ -1,0 +1,3 @@
+# Introduction
+
+Welcome to *A Rich Book* an open text book that will not change your life or make you rich. However, it might just help me pass an assessment for a Git and Github intro course run by [Library Juice Academy](https://www.libraryjuiceacademy.com/). Lets learn Github!
